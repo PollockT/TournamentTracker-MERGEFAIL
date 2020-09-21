@@ -100,7 +100,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(636, 334);
+            this.ClientSize = new System.Drawing.Size(635, 342);
             this.Controls.Add(this.createTournamentButton);
             this.Controls.Add(this.loadTournamentButton);
             this.Controls.Add(this.loadExsistingTournamentDropDown);
