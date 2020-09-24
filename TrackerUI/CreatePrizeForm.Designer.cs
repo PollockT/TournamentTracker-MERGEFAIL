@@ -56,6 +56,7 @@
             // placeNumberValue
             // 
             this.placeNumberValue.Location = new System.Drawing.Point(217, 117);
+            this.placeNumberValue.MaxLength = 15;
             this.placeNumberValue.Name = "placeNumberValue";
             this.placeNumberValue.Size = new System.Drawing.Size(255, 35);
             this.placeNumberValue.TabIndex = 7;
@@ -74,6 +75,7 @@
             // placeNameValue
             // 
             this.placeNameValue.Location = new System.Drawing.Point(217, 176);
+            this.placeNameValue.MaxLength = 50;
             this.placeNameValue.Name = "placeNameValue";
             this.placeNameValue.Size = new System.Drawing.Size(255, 35);
             this.placeNameValue.TabIndex = 7;

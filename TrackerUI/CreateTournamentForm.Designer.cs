@@ -62,6 +62,7 @@
             // tournamentNameValue
             // 
             this.tournamentNameValue.Location = new System.Drawing.Point(52, 139);
+            this.tournamentNameValue.MaxLength = 50;
             this.tournamentNameValue.Name = "tournamentNameValue";
             this.tournamentNameValue.Size = new System.Drawing.Size(301, 35);
             this.tournamentNameValue.TabIndex = 7;
